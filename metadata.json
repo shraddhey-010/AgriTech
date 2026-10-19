@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech - Smart Farming & Skillwallet Platform",
+  "description": "Full-stack smart farming management system with crop monitoring, soil analysis, pest alerts, live weather, marketplace, and Skillwallet project workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
